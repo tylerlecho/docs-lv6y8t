@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-vaj2za.salamduit.online/sitemap.xml
